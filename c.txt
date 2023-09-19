@@ -1,2 +1,6 @@
 new file for pull
-hello from main
+<<<<<<< HEAD
+
+=======
+hello from branch
+>>>>>>> conflict
